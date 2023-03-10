@@ -1,6 +1,6 @@
 # UT_Sales_Tax_Analysis
 
-Data source: [Utah State Tax Comission](https://tax.utah.gov/econstats/sales)
+Data source: [Utah State Tax Commission](https://tax.utah.gov/econstats/sales)
 
 Notes:
 - Impacts from COVID19
