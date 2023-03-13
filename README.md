@@ -1,17 +1,10 @@
 # UT_Sales_Tax_Analysis
 
-Data source: [Utah State Tax Comission](https://tax.utah.gov/econstats/sales)
+Data source: [Utah State Tax Commission](https://tax.utah.gov/econstats/sales)
 
 Notes:
-
-what is city's sale volume made up of? sales type distribution? pie chart for every city...
-population in data set/ per capita, online sales/per capita
-2019 wfrc open data site has population
-total sales column
-
-covid impact,
--total volume
-- explore per capita differences 
-
-look out for tricks Heber/heber city
-some cities cross county boundaries
+- Impacts from COVID19
+- Explore per capita differences
+- Explore use of dashboard to calculate difference on the fly
+- Pay attention to City naming differences between UGRC cities shapefile and Tax Comission e.g. (Heber/heber city)
+- If county-level agregation is needed, use county tab in spreadsheet, don't process from cities export
