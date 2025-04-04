@@ -1,4 +1,4 @@
-# UT_Sales_Tax_Analysis
+# DATA-UT-Sales-Tax-Analysis
 
 Data source: [Utah State Tax Commission](https://tax.utah.gov/econstats/sales)
 
